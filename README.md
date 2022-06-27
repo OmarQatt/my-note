@@ -4,7 +4,7 @@ My name is *Omar Qattam*
 I studied computer science at 
 Al al-Bayt University.
 I love designing web pages 
-and am excited to get started.
+and i'am excited to get started.
 ---
 [GitHub](https://github.com/OmarQatt)
 
@@ -12,7 +12,7 @@ and am excited to get started.
 
 ## good-developer-mindset. ##
 
-Developers who don’t fully understand their work tend to develop complex systems. It can become a vicious cycle: misunderstanding leads to complexity, which leads to further misunderstanding, and so on.
+Developers who don’t fully understand their work tend to develop complex systems. It can become a vicious cycle: == misunderstanding == leads to complexity, which leads to further == misunderstanding ==, and so on.
 
 When faced with the fact that their code will change in the future, some developers attempt to solve the problem by designing a solution so generic that it will accommodate to every possible future situation.
 
