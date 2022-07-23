@@ -1,3 +1,4 @@
+#Reading-Notes#
 # About-MySelf #
 Hello,
 My name is *Omar Qattam*
@@ -9,7 +10,10 @@ and i'am excited to get started.
 [GitHub](https://github.com/OmarQatt)
 
 ---
-
+##Code 102 - Intro to Software Development##
+##Code 201 - Foundations of Software Development##
+##Code 301 - Intermediate Software Development##
+##Code 401 - Advanced Software Development##
 ## good-developer-mindset. ##
 
 Developers who don’t fully understand their work tend to develop complex systems. It can become a vicious cycle: **misunderstanding** leads to complexity, which leads to further misunderstanding, and so on.
@@ -22,11 +26,11 @@ While you want to avoid having less code, you can easily fall in a trap that wil
 
 The optimum code is a small bunch of code that is easy to understand, easy to read.
 
-When other developers in your team see that you *committed* new code to source control, everyone should know that your code is tested, and works.
+>When other developers in your team see that you *committed* new code to source control, everyone should know that your code is tested, and works.
 
 
 ![Code With Cup Of Coffee](https://webpuccino.com/wp-content/uploads/2017/12/coffee-code.jpg)
 
-### Code With Cup Of Coffee ###
+### Code With Cup Of Coffee :+1: :shipit: ###
 
 
