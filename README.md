@@ -10,11 +10,6 @@ and i'am excited to get started.
 [GitHub](https://github.com/OmarQatt)
 
 ---
-## Code 102 - Intro to Software Development 
-## Code 201 - Foundations of Software Development 
-## Code 301 - Intermediate Software Development 
-## Code 401 - Advanced Software Development
-## good-developer-mindset. 
 
 Developers who don’t fully understand their work tend to develop complex systems. It can become a vicious cycle: **misunderstanding** leads to complexity, which leads to further misunderstanding, and so on.
 
@@ -30,6 +25,21 @@ The optimum code is a small bunch of code that is easy to understand, easy to re
 
 
 ![Code With Cup Of Coffee](https://webpuccino.com/wp-content/uploads/2017/12/coffee-code.jpg)
+
+---
+## This repo contains note for javascript course
+## Introduction to React and Components
+
+## Code 102 - Intro to Software Development 
+## Code 201 - Foundations of Software Development 
+## Code 301 - Intermediate Software Development 
+| Content  | Link |
+| ------------- | ------------- |
+| Introduction to React and Components  | Link  |
+## Code 401 - Advanced Software Development
+## good-developer-mindset. 
+
+
 
 ### Code With Cup Of Coffee :+1: :shipit: ###
 
