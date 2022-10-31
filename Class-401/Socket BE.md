@@ -3,7 +3,7 @@ Open Systems Interconnection (OSI) model
 The OSI model is a conceptual framework that is used to describe how a network functions. In plain English,
  the OSI model helped standardize the way computer systems send information to each other.
 
-##layer: 
+## layer: 
 A layer is a way of categorizing and grouping functionality and behavior on and of a network.
 
 Each layer abstracts lower level functionality away until by the time you get to the highest layer. All the details and inner workings of all the other layers are hidden from the end user.
