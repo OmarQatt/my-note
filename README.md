@@ -24,7 +24,7 @@ The optimum code is a small bunch of code that is easy to understand, easy to re
 >When other developers in your team see that you *committed* new code to source control, everyone should know that your code is tested, and works.
 
 
-![Code With Cup Of Coffee](https://webpuccino.com/wp-content/uploads/2017/12/coffee-code.jpg)
+
 
 ---
 ## This repo contains note for javascript course
@@ -43,4 +43,4 @@ The optimum code is a small bunch of code that is easy to understand, easy to re
 
 ### Code With Cup Of Coffee :+1: :shipit: ###
 
-
+![Code With Cup Of Coffee](https://webpuccino.com/wp-content/uploads/2017/12/coffee-code.jpg)
