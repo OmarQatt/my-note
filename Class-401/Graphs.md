@@ -46,7 +46,7 @@ A subgraph is said to be edge-disjoint if E1(G1) intersection E2(G2) = null. In 
 
 # Graph vs Tree
 The basis of Comparison  | Graph | Tree
-------------- | ------------- | 
+------------- | ------------- | ------------|
 Definition  | Graph is a non-linear data structure. 	  | Tree is a non-linear data structure.
 
 Types of Edges  | They can be directed or undirected  | They are always directed
